@@ -12,3 +12,9 @@ What I learned:
 - Using functions, timers, and global variables
 - Basic time management and event-driven programming
 - Organizing code for readability and functionality
+
+--------------------------------------------------------
+How to Run Pomodoro Timer 🍅
+1. Install Python / PyCharm
+2. Clone this repository or download all the .py files.
+3. Run main.py file
